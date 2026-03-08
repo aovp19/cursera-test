@@ -93,3 +93,65 @@ https://aovp19.github.io/cursera-test/module4-solution/
 # Author
 
 Created by AOVP as part of the Coursera coursework.
+
+=========================================================================================
+
+# Module 5 Solution
+
+This repository contains my solution for Module 5 Assignment of the course:
+
+HTML, CSS, and Javascript for Web Developers
+
+Offered by Coursera.
+
+# Description
+
+The project modifies the behavior of the **Specials** tile on the restaurant web application's home page.
+
+Instead of always loading the **Specials** category, the application now selects a **random menu category** and loads its menu items dynamically.
+
+Each time the user clicks the Specials tile, a different category (such as Lunch, Dinner, Sushi, etc.) may be displayed.
+
+The functionality was implemented using JavaScript by retrieving the list of menu categories from the server and selecting one randomly.
+
+# Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript
+
+AJAX
+
+JSON
+
+# Project Structure
+
+module5-solution
+│
+├── index.html
+├── css
+│   ├── bootstrap.min.css
+│   └── styles.css
+│
+├── js
+│   ├── ajax-utils.js
+│   └── script.js
+│
+├── snippets
+│   ├── home-snippet.html
+│   ├── categories-title-snippet.html
+│   ├── category-snippet.html
+│   ├── menu-item.html
+│   └── menu-items-title.html
+
+# Live Demo
+
+You can view the project here:
+
+https://aovp19.github.io/cursera-test/module5-solution/
+
+# Author
+
+Created by AOVP as part of the Coursera coursework.
