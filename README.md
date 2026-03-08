@@ -40,8 +40,56 @@ module3-solution
 
 You can view the project here:
 
-https://aovp19.github.io/cursera-test-module3/module3-solution/
+https://aovp19.github.io/cursera-test/module3-solution/
 
 ## Author
 
 Created by **AOVP** as part of the Coursera coursework.
+
+=========================================================================================
+
+# Module 4 Solution
+
+This repository contains my solution for Module 4 Assignment of the course:
+
+HTML, CSS, and Javascript for Web Developers
+
+Offered by Coursera.
+
+# Description
+
+The project demonstrates the use of JavaScript to loop over an array of names and print personalized greetings in the browser console.
+
+The logic includes:
+
+Printing Goodbye JSomeName if the name starts with J or j
+
+Printing Hello SomeName for all other names
+
+Fixing and using external libraries (speakHello.js and speakGoodbye.js)
+
+# Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript
+
+# Project Structure
+module4-solution
+│
+├── index.html
+├── script.js
+├── speakHello.js
+├── speakGoodbye.js
+└── README.md
+# Live Demo
+
+You can view the project here:
+
+https://aovp19.github.io/cursera-test/module4-solution/
+
+# Author
+
+Created by AOVP as part of the Coursera coursework.
